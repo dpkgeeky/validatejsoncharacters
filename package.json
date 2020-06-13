@@ -1,6 +1,6 @@
 {
   "name": "validatejsoncharacters",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A basic library to validate special characters in an jsonobject",
   "main": "index.js",
   "scripts": {

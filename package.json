@@ -1,0 +1,23 @@
+{
+  "name": "validatejsoncharacters",
+  "version": "1.0.0",
+  "description": "A basic library to validate special characters in an jsonobject",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpkgeeky/validatejsoncharacters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpkgeeky/validatejsoncharacters/issues"
+  },
+  "homepage": "https://github.com/dpkgeeky/validatejsoncharacters#readme",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
+}

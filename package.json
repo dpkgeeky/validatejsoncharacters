@@ -10,8 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/dpkgeeky/validatejsoncharacters.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "validatejson",
+    "specialcharacters",
+    "securitycheck",
+    "validatejsoncharacters"
+  ],
+  "author": "Sam Saint-Pettersen <s.stpettersen+github@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dpkgeeky/validatejsoncharacters/issues"
